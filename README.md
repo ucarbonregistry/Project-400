@@ -4,7 +4,59 @@ SBPIL Waste Heat to Power Project, Borjhara, India
 1st CoU Issuance Period: 01/09/2015-31/12/2022 (07 years 04 months)
 
 1st Crediting Period: 01/09/2015-31/12/2022 (07 years 04 months)
-_______________
+
+Total CoUs Issued: 502989
+
+Issue Date: 14/03/2024
+_____________________
+Serial Number: 0001-000001-024382-UCR-CoU-IN-400-01092015-31122015
+
+Vintage Year: 2015
+
+Quantity: 24382
+_________________
+Serial Number: 0001-024383-099576-UCR-CoU-IN-400-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 75194
+_______________________
+Serial Number: 0001-099577-165517-UCR-CoU-IN-400-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 65941
+______________________
+Serial Number: 0001-165518-237107-UCR-CoU-IN-400-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 71590
+_____________________
+Serial Number: 0001-237108-298100-UCR-CoU-IN-400-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 60993
+_______________________
+Serial Number: 0001-298101-352582-UCR-CoU-IN-400-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 54482
+_____________________
+Serial Number: 0001-352583-424285-UCR-CoU-IN-400-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 71703
+_____________________
+Serial Number: 0001-424286-502989-UCR-CoU-IN-400-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 78704
+_________________________
 PRIOR HISTORY
 
 The project activity has been registered as a UNFCCC CDM and other elements as VCS project
